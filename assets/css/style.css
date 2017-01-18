@@ -1,0 +1,62 @@
+body{
+    width:100%;
+    background-color:black;
+    color:white;
+}
+
+.wrapper{
+    width:900px;
+    height:700px;
+    margin:0 auto;
+    color:white;
+    background-color:white;
+}
+
+.titlename a{
+    text-decoration:none;
+    color:orange;
+    font-size:28px;
+}
+.titlename a:hover{
+    color:white;
+}
+
+.connectgap{
+    margin:40px;
+}
+
+.recshownow{
+    width:300px;
+    height:50px;
+    background-color:#E6102D;
+}
+
+.recbooknow{
+    width:240px;
+    height:50px;
+    background-color:#E6102D;
+}
+
+.recshownow a{
+    text-decoration:none;
+    color:white;
+    text-align:center;
+    display:block;
+    font-size:20px;
+    font-weight:bold;
+    padding-top:10px;
+}
+
+.recbooknow a{
+    text-decoration:none;
+    color:white;
+    text-align:center;
+    display:block;
+    font-size:20px;
+    font-weight:bold;
+    padding-top:10px;
+}
+
+.recbooknow a:hover{
+    transform:scale(1.2);
+}
